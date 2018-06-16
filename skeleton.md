@@ -1,0 +1,2 @@
+What happens to the layout when you resize the screen to less than 550 px. How do you think that works?
+    The layout changes to suit a phone sized screen - the columns stack. Skeleton is designed to be mobile first - the CSS is written for mobile and uses media queries to create a multi column layout for larger screen sizes.
